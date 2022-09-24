@@ -1,7 +1,9 @@
 ### Olá 😄
-  Sou João Vitor Gil, Analista Engenheiro e aqui está um pouco do que estudo no meu tempo livre.
- - Estudando Spring Cloud e AWS.
- Você pode ver um pouquinho do meu último estudo de Microsserviços Java com Spring Boot e Spring Cloud [aqui](https://github.com/JvGil/ms-course)!
+  Sou João Vitor Gil, Analista Engenheiro focado em linguagem Java e microsseriços. 
+  
+  Venha me conhecer melhor e acompanhe de perto o que estou estudando em Java.
+    - [Spring Boot e Spring Cloud](https://github.com/JvGil/ms-course)
+    - [AWS ECS Fargate e AWS CDK](https://github.com/JvGil/projeto_aws)
 
 <div>
   <a href="https://github.com/JvGil">
@@ -10,6 +12,7 @@
   </a>
 </div>
 
+<!--
 #### Tecnologias que utilizo:
 <div style="display: inline_block"><br>
   <a href="https://github.com/JvGil">
@@ -21,6 +24,7 @@
     <img align="center" alt="JvGil-IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
   </a>
 </div>
+-->
 
 <!--
 **JvGil/JvGil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
